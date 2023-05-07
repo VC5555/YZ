@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",GEOMEX
-http://clubtv.link/0523may/top2197/geomex.php?c=108
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @tecnotv
-http://stream.zeno.fm/qvq7sm8mymzuv
-#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
-https://clubtv.link/redes.mp4
-
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="NOTICIAS",Euronews Español
 http://clubtv.link/0523may/top2197/distro.php?c=euronews-spa&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="CINE Y SERIES",Top Cine
