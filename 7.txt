@@ -1,0 +1,17 @@
+Xtream-CodesHOST: http://6oclock.xyz:80
+
+Username: oVTsSvYjZu
+Password: cAXDNm9LY9
+ 
+InformationCreated: 2020-11-22
+Expired: unlimited 
+Activ cons: 246
+Max cons: 750
+
+
+Iptv listurl list: http://6oclock.xyz:80/get.php?username=oVTsSvYjZu&password=cAXDNm9LY9&type=m3u_plus
+
+url EPG-a : http://6oclock.xyz:80/xmltv.php?username=oVTsSvYjZu&password=cAXDNm9LY9
+
+
+Channel groupsEVENTS💥NFL 💥NHL 💥NBA 💥MLB💥USA💥DELUXE💥USA EAST💥USA CENTRAL💥USA WEST/MST💥SPORTS BOX💥INT'L SPORTS💥YOUNGSTER💥ACROSS D POND💥CANADA💥LATINO💥BRASIL💥CARIBBEAN💥TEAM NAUGHTY💥MUSIC BOX💥NCAA Baseball (OFF SEASON)💥NCAA Basketball (Men)💥NCAA Football (OFF)💥
