@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, tvg-logo="http://ts.tvcluboficial.com/ts/AXN_HD/_251821.ts"
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/18
+#EXTINF:-1, tvg-logo="http://ts/InvestigationDiscovery/_39674.ts"
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.101
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/1
+
+
