@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MX: A3 SERIES VIP FHD" tvg-logo="" group-title="Mexico",MX: A3 SERIES VIP FHD
-http://afcxg.nicpob.xyz:80/live/Nandotorremenga/EUC@rV69Ydjb/1012451.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: AL JAZEERA VIP FHD" tvg-logo="" group-title="Mexico",MX: AL JAZEERA VIP FHD
-http://afcxg.nicpob.xyz:80/live/Nandotorremenga/EUC@rV69Ydjb/1012454.ts
 #EXTINF:-1 tvg-id="" tvg-name="MX: ANIMAL PLANET VIP SD" tvg-logo="" group-title="Mexico",MX: ANIMAL PLANET VIP SD
 http://afcxg.nicpob.xyz:80/live/Nandotorremenga/EUC@rV69Ydjb/1012458.ts
 #EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA UNO VIP HD" tvg-logo="" group-title="Mexico",MX: AZTECA UNO VIP HD
