@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/iptvlogos/ABC.png" group-title="UNITED STATES",USA| DEstino final 6
-https://vkvideo.ru/video_ext.php?oid=-223026954&id=456241268&hash=a01018c81f97b30b.m3u8
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/USA/ABC-WEST.png" group-title="UNITED STATES",USA| ABC WEST HD
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:E7:51:4F&stream=73276&extension=ts&play_token=9p1Ke6ex4C
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/USA/ABC-WEST.png" group-title="UNITED STATES",USA| ABC WEST HD
