@@ -1,5 +1,307 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="APlus.mx" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="México",A+
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/A+ 7.2.png" group-title="┃MX┃ MEXICO",┃MX┃ A+ 7.2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091727&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/A+ 7.2.png" group-title="┃MX┃ MEXICO",┃MX┃ A+ 7.2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091726&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ADN 40.png" group-title="┃MX┃ MEXICO",┃MX┃ ADN 40
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091728&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ADN 40.png" group-title="┃MX┃ MEXICO",┃MX┃ ADN 40 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091730&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ADN 40.png" group-title="┃MX┃ MEXICO",┃MX┃ ADN 40 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091729&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ALCARRIA TV.png" group-title="┃MX┃ MEXICO",┃MX┃ ALCARRIA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091733&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/A MÁS+ TV.png" group-title="┃MX┃ MEXICO",┃MX┃ A MÁS+ TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091787&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AYM SPORTS.png" group-title="┃MX┃ MEXICO",┃MX┃ AYM SPORTS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091735&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AYM SPORTS.png" group-title="┃MX┃ MEXICO",┃MX┃ AYM SPORTS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091734&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZ CINEMA.png" group-title="┃MX┃ MEXICO",┃MX┃ AZ CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091736&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA CLIC.png" group-title="┃MX┃ MEXICO",┃MX┃ AZ CLIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091737&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA CORAZÓN.png" group-title="┃MX┃ MEXICO",┃MX┃ AZ CORAZÓN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091739&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA CORAZÓN.png" group-title="┃MX┃ MEXICO",┃MX┃ AZ CORAZÓN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091738&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA MUNDO.png" group-title="┃MX┃ MEXICO",┃MX┃ AZ MUNDO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091741&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA MUNDO.png" group-title="┃MX┃ MEXICO",┃MX┃ AZ MUNDO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091740&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA 7.png" group-title="┃MX┃ MEXICO",┃MX┃ AZTECA 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091742&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA CLIC.png" group-title="┃MX┃ MEXICO",┃MX┃ AZTECA CLIC FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091743&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA CORAZÓN.png" group-title="┃MX┃ MEXICO",┃MX┃ AZTECA CORAZÓN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091744&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA MUNDO.png" group-title="┃MX┃ MEXICO",┃MX┃ AZTECA MUNDO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091745&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA UNO.png" group-title="┃MX┃ MEXICO",┃MX┃ AZTECA UNO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091747&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA UNO.png" group-title="┃MX┃ MEXICO",┃MX┃ AZTECA UNO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091746&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/AZTECA UNO INTERNACIONAL.png" group-title="┃MX┃ MEXICO",┃MX┃ AZTECA UNO INTERNACIONAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091814&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/BANDAMAX.png" group-title="┃MX┃ MEXICO",┃MX┃ BANDAMAX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091748&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/BITME MX.png" group-title="┃MX┃ MEXICO",┃MX┃ BITME MX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091749&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 4.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091755&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 4.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 4 TELEVISA MYT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091756&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 5.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 5 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091759&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 5.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091758&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 6 CDMX.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 6 CDMX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091834&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 6 PLUS.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 6 PLUS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091837&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 6 TECPÁN.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 6 TECPÁN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091825&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 8.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 8 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091761&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 8.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091760&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 10 TV.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 10 CANCÚN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091751&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 10 TV.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 10 TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091816&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL ONCE.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 11 MX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091752&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 15 ILCE SUMMA.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 15 ILCE SUMMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091843&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 26.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 26 VA+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091754&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/Canal 28 TV.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 28 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091766&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/Canal 28 TV.png" group-title="┃MX┃ MEXICO",┃MX┃ Canal 28 TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091817&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 33 TIJUANA.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 33 TIJUANA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091818&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 33 TIJUANA.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 33 TIJUANA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091841&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 33 TIJUANA.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 33 TIJUANA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091842&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 44 CHIHUAHUA.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL 44 CHIHUAHUA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091757&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL CBTV MICHOACAN.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL CBTV MICHOACAN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091845&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL DEL CONGRESO 45 TV.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL DEL CONGRESO 45 TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091773&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL DIEZ CANCÚN.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL DIEZ CANCÚN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091764&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL JUDICIAL.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL JUDICIAL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091765&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL JUDICIAL.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL JUDICIAL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091779&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL ONCE.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL ONCE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091767&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL SIPSE TVCUN.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL SIPSE TV (MERIDA) HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091762&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL SIPSE TVCUN.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL SIPSE TVCUN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091781&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL SONY ONE NOVELAS MX.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL SONY ONE NOVELAS MX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091831&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL TV CUATRO.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL TV CUATRO 4.1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091839&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL TV CUATRO.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL TV CUATRO 4.2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091840&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL TV MAR LA PAZ.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL TV MAR LA PAZ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091844&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL U.png" group-title="┃MX┃ MEXICO",┃MX┃ CANAL U (UNICABLE) HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091768&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CINE ESTRELLA.png" group-title="┃MX┃ MEXICO",┃MX┃ CINE ESTRELLA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091775&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CURIOSITY.png" group-title="┃MX┃ MEXICO",┃MX┃ CURIOSITY FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091772&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/EL HERALDO NOTICIAS.png" group-title="┃MX┃ MEXICO",┃MX┃ EL HERALDO NOTICIAS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091774&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ESTRELLA NEWS.png" group-title="┃MX┃ MEXICO",┃MX┃ ESTRELLA NEWS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091776&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ESTRELLA TV.png" group-title="┃MX┃ MEXICO",┃MX┃ ESTRELLA TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091777&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/EWTN.png" group-title="┃MX┃ MEXICO",┃MX┃ EWTN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091778&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/FORO TV MX.png" group-title="┃MX┃ MEXICO",┃MX┃ FORO TV MX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091780&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/GOLDEN EDGE.png" group-title="┃MX┃ MEXICO",┃MX┃ GOLDEN EDGE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091783&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/GOLDEN EDGE.png" group-title="┃MX┃ MEXICO",┃MX┃ GOLDEN EDGE MX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091784&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/GOLDEN.png" group-title="┃MX┃ MEXICO",┃MX┃ GOLDEN MX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091785&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/IMAGEN TV MX.png" group-title="┃MX┃ MEXICO",┃MX┃ IMAGEN TV MX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091786&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ITV DEPORTES.png" group-title="┃MX┃ MEXICO",┃MX┃ ITV DEPORTES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091731&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/LAS ESTRELLAS - 2 HORAS.png" group-title="┃MX┃ MEXICO",┃MX┃ LAS ESTRELLAS - 2 HORAS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091826&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/LAS ESTRELLAS.png" group-title="┃MX┃ MEXICO",┃MX┃ LAS ESTRELLAS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091789&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/LAS ESTRELLAS.png" group-title="┃MX┃ MEXICO",┃MX┃ LAS ESTRELLAS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091788&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/LAS ESTRELLAS.png" group-title="┃MX┃ MEXICO",┃MX┃ LAS ESTRELLAS OPC. 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091827&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/MAYA TELEVISON.png" group-title="┃MX┃ MEXICO",┃MX┃ MAYA TELEVISON HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091805&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/MEXICO FRANCE 24.png" group-title="┃MX┃ MEXICO",┃MX┃ MEXICO FRANCE 24 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091838&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/MEXIQUENSE.png" group-title="┃MX┃ MEXICO",┃MX┃ MEXIQUENSE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091792&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/MEXIQUENSE.png" group-title="┃MX┃ MEXICO",┃MX┃ MEXIQUENSE MX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091791&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/MILENIO.png" group-title="┃MX┃ MEXICO",┃MX┃ MILENIO TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091793&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/MIL SABORES.png" group-title="┃MX┃ MEXICO",┃MX┃ MIL SABORES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091812&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/MULTIMEDIOS.png" group-title="┃MX┃ MEXICO",┃MX┃ MULTIMEDIOS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091796&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/MULTIMEDIOS.png" group-title="┃MX┃ MEXICO",┃MX┃ MULTIMEDIOS LAGUNA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091794&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/MULTIMEDIOS PLUS MX.png" group-title="┃MX┃ MEXICO",┃MX┃ MULTIMEDIOS PLUS MX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091795&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/MYTIME MOVIE NETWORK.png" group-title="┃MX┃ MEXICO",┃MX┃ MYTIME MOVIE NETWORK MX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091769&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/NOVELAS Y SERIES.png" group-title="┃MX┃ MEXICO",┃MX┃ NOVELAS Y SERIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091846&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/NU9VE.png" group-title="┃MX┃ MEXICO",┃MX┃ NU9VE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091830&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/NUEVE SAN LUÍS POTOSÍ.png" group-title="┃MX┃ MEXICO",┃MX┃ NUEVE SAN LUÍS POTOSÍ
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091823&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/Canal 28 TV.png" group-title="┃MX┃ MEXICO",┃MX┃ NUEVO LEÓN CANAL 28 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091808&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/RCG.png" group-title="┃MX┃ MEXICO",┃MX┃ RCG
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091824&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/RTV VERACRUZ MX.png" group-title="┃MX┃ MEXICO",┃MX┃ RTV VERACRUZ  MX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091835&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/CANAL 26.png" group-title="┃MX┃ MEXICO",┃MX┃ SET TELEVISIÓN CANAL 26.2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091822&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/SISTEMA MICHOACANO.png" group-title="┃MX┃ MEXICO",┃MX┃ SISTEMA MICHOACANO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091798&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/SISTEMA MICHOACANO.png" group-title="┃MX┃ MEXICO",┃MX┃ SISTEMA MICHOACANO TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091820&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/SUN CHANNEL.png" group-title="┃MX┃ MEXICO",┃MX┃ SUN CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091829&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/SUPER CANAL 12.png" group-title="┃MX┃ MEXICO",┃MX┃ SUPER CANAL 12 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091763&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEFORMULA.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEFORMULA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091801&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEFORMULA.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEFORMULA MX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091800&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEMAX.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEMAX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091802&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEMUNDO 51 FL.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEMUNDO 51 FL. HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091790&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEMUNDO 52 CALIFORNIA.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEMUNDO 52 CALIFORNIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091771&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEMUNDO NOTICIAS.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEMUNDO NOTICIAS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091810&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEPLAY SURESTE.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEPLAY SURESTE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091821&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELESISTEMA CANAL 9.png" group-title="┃MX┃ MEXICO",┃MX┃ TELESISTEMA CANAL 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091732&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEVISA CIUDAD PUEBLA.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEVISA CIUDAD PUEBLA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091828&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEVISA MEXICALI.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEVISA MEXICALI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091803&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEVISA MONTERREY.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEVISA MONTEREY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091815&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEVISA MONTERREY.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEVISA MONTERREY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091804&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TELEVISA TIJUANA CANAL 12.png" group-title="┃MX┃ MEXICO",┃MX┃ TELEVISA TIJUANA CANAL 12 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091799&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TLR TV.png" group-title="┃MX┃ MEXICO",┃MX┃ TLR TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091832&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TV4 NOTICIAS.png" group-title="┃MX┃ MEXICO",┃MX┃ TV4 NOTICIAS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091813&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TV MAR PUERTO VALLARTA.png" group-title="┃MX┃ MEXICO",┃MX┃ TV MAR PUERTO VALLARTA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091770&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TVP CULIACÁN.png" group-title="┃MX┃ MEXICO",┃MX┃ TVP CULIACÁN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091819&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TVP CULIACÁN.png" group-title="┃MX┃ MEXICO",┃MX┃ TVP OBREGÓN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091750&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/TVT.png" group-title="┃MX┃ MEXICO",┃MX┃ TVT (TABASQUEÑA) HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091836&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ULTRA CINE.png" group-title="┃MX┃ MEXICO",┃MX┃ ULTRA CINE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091797&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ULTRA MACHO.png" group-title="┃MX┃ MEXICO",┃MX┃ ULTRA MACHO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091833&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ULTRA MEXICO.png" group-title="┃MX┃ MEXICO",┃MX┃ ULTRA MEXICO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091753&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/ULTRA TV PUEBLA.png" group-title="┃MX┃ MEXICO",┃MX┃ ULTRA TV PUEBLA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091806&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/UMTV.png" group-title="┃MX┃ MEXICO",┃MX┃ UMTV (MONTEMORELOS) HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091807&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/UMTV.png" group-title="┃MX┃ MEXICO",┃MX┃ UMTV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091809&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/UNO TV.png" group-title="┃MX┃ MEXICO",┃MX┃ UNO TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091811&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/MEXICO/VISIÓN TV.png" group-title="┃MX┃ MEXICO",┃MX┃ VISIÓN TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091782&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/ESPN.png" group-title="┃MX┃ LIGA MX",┃MX┃ ESPN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091854&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/FOX SPORTS 2.png" group-title="┃MX┃ LIGA MX",┃MX┃ FOX SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091874&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/FOX SPORTS 3.png" group-title="┃MX┃ LIGA MX",┃MX┃ FOX SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091860&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/FOX SPORTS PREMIUM.png" group-title="┃MX┃ LIGA MX",┃MX┃ FOX SPORTS PREMIUM
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091861&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/FOX SPORTS DEPORTES.png" group-title="┃MX┃ LIGA MX",┃MX┃ FOX SPORTS DEPORTES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091859&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/FOX SPORTS DEPORTES.png" group-title="┃MX┃ LIGA MX",┃MX┃ FOX SPORTS DEPORTES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091862&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/SKY ONE.png" group-title="┃MX┃ LIGA MX",┃MX┃ SKY ONE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091873&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/TUDN MEXICO.png" group-title="┃MX┃ LIGA MX",┃MX┃ TUDN MEXICO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091857&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/TUDN MEXICO.png" group-title="┃MX┃ LIGA MX",┃MX┃ TUDN FHD (USA)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091858&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/TUDN MEXICO.png" group-title="┃MX┃ LIGA MX",┃MX┃ TUDN ZONA FUTBOL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091856&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/TUDN MEXICO.png" group-title="┃MX┃ LIGA MX",┃MX┃ TUDN #2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091863&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/VIX+ TUDN.png" group-title="┃MX┃ LIGA MX",┃MX┃ VIX+ TUDN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091876&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/VIX.png" group-title="┃MX┃ LIGA MX",┃MX┃ VIX DEPORTES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091875&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/VIX.png" group-title="┃MX┃ LIGA MX",┃MX┃ VIX LO MEJOR LIGA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091868&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/VIX.png" group-title="┃MX┃ LIGA MX",┃MX┃ VIX SPORTS (LA LIGA)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091872&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/ADRENALINA SPORTS NETWORK.png" group-title="┃MX┃ LIGA MX",┃MX┃ ADRENALINA SPORTS NETWORK FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091869&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/AYM SPORTS.png" group-title="┃MX┃ LIGA MX",┃MX┃ AYM SPORTS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091866&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/CLARO SPORTS.png" group-title="┃MX┃ LIGA MX",┃MX┃ CLARO SPORTS (LA LIGA)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091871&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/CLARO SPORTS.png" group-title="┃MX┃ LIGA MX",┃MX┃ CLARO SPORTS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091867&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/ITV DEPORTES.png" group-title="┃MX┃ LIGA MX",┃MX┃ ITV DEPORTES FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091864&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/SKY SPORTS PREMIER.png" group-title="┃MX┃ LIGA MX",┃MX┃ SKY SPORTS PREMIER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091870&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/TELEMUNDO.png" group-title="┃MX┃ LIGA MX",┃MX┃ TELEMUNDO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091855&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LIGA MX/TVC DEPORTES.png" group-title="┃MX┃ LIGA MX",┃MX┃ TVC DEPORTES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091865&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LMP EVENT/LMP EVENT.png" group-title="┃MX┃ LMP EVENT",┃MX┃ LMP EVENT 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091880&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LMP EVENT/LMP EVENT.png" group-title="┃MX┃ LMP EVENT",┃MX┃ LMP EVENT 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091882&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LMP EVENT/LMP EVENT.png" group-title="┃MX┃ LMP EVENT",┃MX┃ LMP EVENT 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091881&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LMP EVENT/LMP EVENT.png" group-title="┃MX┃ LMP EVENT",┃MX┃ LMP EVENT 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091883&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LMP EVENT/LMP EVENT.png" group-title="┃MX┃ LMP EVENT",┃MX┃ LMP EVENT 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091884&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LMP EVENT/LMP EVENT.png" group-title="┃MX┃ LMP EVENT",┃MX┃ LMP EVENT 6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091885&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/LMP EVENT/LMP EVENT.png" group-title="┃MX┃ LMP EVENT",┃MX┃ LMP EVENT 7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091886&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/CASA DE LOS FAMSOS ALL STARS/CASA DE LOS FAMOSOS.png" group-title="┃MX┃ CASA DE LOS FAMOSOS: ALL STARS",┃MX┃ CASA DE LOS FAMOSOS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091878&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MEXICO/CASA DE LOS FAMSOS ALL STARS/CASA DE LOS FAMOSOS.png" group-title="┃MX┃ CASA DE LOS FAMOSOS: ALL STARS",┃MX┃ CASA DE LOS FAMOSOS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:13:2B&stream=1091879&extension=ts
